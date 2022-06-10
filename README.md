@@ -23,4 +23,4 @@ insert - insert value to specific place
 
 delete - delete list
 
-exit - extit feom the program
+exit - extit from the program
