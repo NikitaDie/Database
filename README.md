@@ -21,6 +21,6 @@ search - print the index of value
 
 insert - insert value to specific place
 
-delete - delete list
+delete - delete the value of a specific index 
 
 exit - extit from the program
