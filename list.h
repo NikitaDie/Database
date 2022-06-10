@@ -29,6 +29,12 @@ typedef struct List {
     void deleteList() {
 
     };
+    
+    void cleanList() {
+        while (this->size != 0) {
+            popBack();
+        }
+    };
 
     void printList() {
         node* tmp = this->head;
