@@ -1,0 +1,8 @@
+0: Katia
+1: Swift
+2: Liza
+3: Maslova
+4: Theresa
+5: Big
+6: Python
+7: Polya
