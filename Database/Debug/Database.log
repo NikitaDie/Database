@@ -1,5 +1,0 @@
-﻿  main.cpp
-D:\C++\Homework\database\Database\Database\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\C++\Homework\database\Database\Database\list.h(259,2): warning C4091: typedef : пропускается слева от "List", когда ни одна переменная не объявлена
-D:\C++\Homework\database\Database\Database\list.h(153): warning C4715: List::search: значение возвращается не при всех путях выполнения
-  Database.vcxproj -> D:\C++\Homework\database\Database\Debug\Database.exe
