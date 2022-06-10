@@ -1,7 +1,10 @@
 # Database
 fwrite - write to file
+
 fread - write from file
+
 pushBack - push element to the end
+
 pushFront - push element to the begining
 popBack - delete element from the end
 popFront - delete element from the end
